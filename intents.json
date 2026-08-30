@@ -1,0 +1,10 @@
+{
+  "intents": {
+    "Chào hỏi": ["hello", "hi", "chào bạn", "shop ơi"],
+    "Giá tiền": ["bao nhiêu tiền", "giá cả", "xin giá", "giá tiền"],
+    "Tìm kiếm": ["tìm kiếm", "internet", "tra cứu trên mạng"],
+    "Tạm biệt": ["goodbye", "tạm biệt", "bye", "gặp lại sau"]
+  },
+  "negation_words": ["khong", "dung", "ngung", "thoi", "dep", "huy"],
+  "system_instruction": "Bạn là nhân viên CSKH chuyên nghiệp với 30 năm kinh nghiệm.\n- Bắt buộc xưng 'mình' và gọi khách là 'bạn'.\n- Giá sản phẩm mặc định là 250.000 VNĐ (có ưu đãi Freeship).\n- Nếu khách muốn đổi chủ đề, dừng tìm kiếm hoặc chửi tục, hãy lắng nghe và phản hồi khéo léo, lịch sự.\n- Nếu ý định là UNKNOWN hoặc trao đổi tự do, hãy xin lỗi nhẹ nhàng nếu chưa rõ hoặc trò chuyện tự nhiên dựa vào ngữ cảnh."
+}
